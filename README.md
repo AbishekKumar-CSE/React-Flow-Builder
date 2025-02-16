@@ -2,8 +2,8 @@
 
 ## Clone Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/AbishekKumar-CSE/React-Flow-Builder.git
+cd React-Flow-Builder
 ```
 
 ## Install Dependencies
@@ -30,4 +30,11 @@ Project will be available at `http://localhost:5173/`.
 - Link
 - Video
 - Button
+
+## Technologies Used
+
+- React JS
+- React Flow
+- Bootstrap
+- Nanoid
 
