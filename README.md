@@ -22,11 +22,12 @@ yarn dev
 
 Project will be available at `http://localhost:5173/`.
 
-# Pecifications
+# Specifications
 
 ## Here You Can Create Node With
 
-    ##images
-    ##Link
-    ##Video
-    ##Button
+- Images
+- Link
+- Video
+- Button
+
