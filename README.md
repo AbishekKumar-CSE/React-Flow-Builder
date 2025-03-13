@@ -1,4 +1,4 @@
-# React-Flow-Builder
+# Simple-React-Flow-Builder
 
 ## Clone Repository
 ```sh
